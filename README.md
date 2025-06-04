@@ -1,0 +1,2 @@
+# Smart_Campus_Navigator
+This full VR prototype explores how immersive campus navigation can help new students find their way around a university environment. Set in a full virtual replica of a university campus, in this case, the Kansai University (Takatsuki Campus), users select a destination and are guided by 3D arrows and floating labels through the digital campus.  The project evaluates whether spatial cues (directional arrows, labels) in a realistic VR environment improve orientation, wayfinding speed, and user confidence compared to flat maps.
