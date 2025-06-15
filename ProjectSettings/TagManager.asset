@@ -3,15 +3,34 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - waypoint
+  - QDSUIBackplateGradient
+  - QDSUISecondaryButton
+  - QDSUIIcon
+  - QDSUIToggleButton
+  - QDSUITextSecondaryColor
+  - QDSUIBorderlessButton
+  - QDSUITooltip
+  - QDSUIToggleBorderlessButton
+  - QDSUISharedThemeColor
+  - QDSUISection
+  - QDSUIToggleSwitch
+  - QDSUIToggleCheckboxRadio
+  - QDSUIAccentColor
+  - QDSUITextInputField
+  - QDSUIPrimaryButton
+  - QDSUITextInvertedColor
+  - QDSUITextSecondaryInvertedColor
+  - QDSUIDestructiveButton
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Overlay UI
   - Water
   - UI
-  - 
+  - Buildings
   - 
   - 
   - 
